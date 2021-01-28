@@ -1,0 +1,22 @@
+{
+    "name": "FunWithPotatosVR.SteamVR",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fcd6e4f9d67f7f045ab69eb6a09dfcf1",
+        "GUID:1fbf338ef6b952a448262a7ff7df5fe4",
+        "GUID:bb063494f31ca1c449965d8038b4b307"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

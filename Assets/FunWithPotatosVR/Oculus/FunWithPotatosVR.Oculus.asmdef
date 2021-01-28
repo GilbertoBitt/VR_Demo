@@ -1,0 +1,21 @@
+{
+    "name": "FunWithPotatosVR.Oculus",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fcd6e4f9d67f7f045ab69eb6a09dfcf1",
+        "GUID:f64c9ebcd7899c3448a08dc9f9ddbe30",
+        "GUID:180febc00f19b8946abfb696e7bec63c"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
